@@ -1,4 +1,4 @@
-# Analizis1
+# Analízis I
 Az Analízis I tárgyhoz tartozó programok. Némi segítség a tanuláshoz.
 
 A programok Julia programozási nyelvben íródtak de használnak python lib-eket is.
